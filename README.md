@@ -1,2 +1,2 @@
 # Entrega-Atividade-18-08
-Exercício sobre polimorfismo e interface
+Exercício sobre Set, List e Map.
